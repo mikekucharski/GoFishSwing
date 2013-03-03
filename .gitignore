@@ -1,0 +1,19 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+*.class
+.classpath
+.project
+.settings/
+
+# Generated Files
+bin/
+gen/
+
+# Compiled Code
+*.jnlp
+*.jardesc
+*.html
